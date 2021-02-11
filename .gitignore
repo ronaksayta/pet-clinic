@@ -2,4 +2,7 @@
 *.jar
 
 # target folder not included
-*/target/**
+.classpath
+.project
+.settings/
+target/
