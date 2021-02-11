@@ -1,0 +1,5 @@
+# package file not included
+*.jar
+
+# target folder not included
+*/target/**
